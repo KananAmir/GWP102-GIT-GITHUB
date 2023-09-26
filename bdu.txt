@@ -1,1 +1,2 @@
 this is bdu. txt file
+new line added
